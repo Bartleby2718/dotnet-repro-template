@@ -1,5 +1,5 @@
-# convert-changetype-infinity
-Minimal reproducible example for Convert.ChangeType(Infinity)
+# TODO:
+Minimal reproducible example for TODO: in .NET
 
 # Commands Run
 dotnet new sln --name MySolution
